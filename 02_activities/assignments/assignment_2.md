@@ -10,24 +10,20 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+       Good visualization: https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday
 
+      Explain: This visualization uses a calendar heatmap, where each square represents a day of the year. This calendar view is clean and straightforward, minimizing cognitive load and making it easy for the general audience to understand. The full dataset has 365 values, and a color shading from light to dark is used to represent the frequency of birthdays. The way that uses darker shades for more common birthdays and lighter for less common ones allows the user to quickly detect most common and uncommon birthdays. Furthermore, this visualization involves some discovery process, encouraging the user to go through the pattern with their personal information, making this visualization interactive and self-relevant.
 
+      Bad visualization: https://public.tableau.com/app/profile/wendy.shijia/viz/my2023review/my2023reviewhorizontal
 
-
-
-
+      Explain: This visualization also utilizes a calendar format to represent the time spent on various activities in 2023. It may be fun for individual use; however, by assigning each activity both a different color and a shape, the calendar map ends up to look very noisy. Also, the left half (which mainly contains title, illustrations, legends) is too large, making the right half (which is the actual calendar map for visualization) packed densely packed and over-cluttered. And there are not clear visual boundaries that separates one month from the next, which increases the difficulty for efficient visualization.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+       For the good visualization mentioned above, I think it is not very appropriate to use sized circles beside each month to represent the total frequency of birthdays that happen in that month, as the color intensity already conveys birth frequency. The use of color intensity + circle size may increase the redundancy and distraction.  
 
-
-
-
-
-
+      For the bad visualization, for a simpler information layout, each category can be represent using only color difference but not shape. The font of the left half of the visualization should be smaller, leaving more space for the right half. More obvious grid lines should be used to separate different months; horizontal grind lines can also be applied to the calendar to divide each month into several parts, making the user have a better idea of the length of time spent on each activity.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
